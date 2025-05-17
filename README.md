@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Monozu
+I am a person who works with both hardware and software.
+
 <!--
 **monozu-deving/monozu-deving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
