@@ -36,6 +36,12 @@
 ![Android Studio (Kotlin)](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
+---
+
+### 📊 Git Stats  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monozu-deving&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **monozu-deving/monozu-deving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
