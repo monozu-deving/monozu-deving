@@ -40,7 +40,8 @@
 
 ### 📊 Git Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monozu-deving&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monozu-deving&show_icons=true&theme=one_dark_pro&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monozu-deving&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **monozu-deving/monozu-deving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
