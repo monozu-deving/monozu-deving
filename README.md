@@ -36,16 +36,6 @@
 ![Android Studio (Kotlin)](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
----
-
-## 🏆 Awards & Activities
-
-- 🏅 **Encouragement Prize**, 2023 YIP Youth Inventors Program  
-- 🏅 **Encouragement Prize**, 2024 DSC CA.S.E UP Startup Competition  
-- 🏅 **Encouragement Prize**, 20th Junior Startup & Idea Competition  
-- 🏅 **Patent Holder**, "Emergency Exit Space for Semi-Basement Residents in Rainy Conditions"
-
-
 <!--
 **monozu-deving/monozu-deving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
