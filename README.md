@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/monozu-deving)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:monozu.deving@gmail.com)
-[![MBTI](https://img.shields.io/badge/MBTI-INTJ-8E44AD?style=flat)]()
+[![MBTI](https://img.shields.io/badge/MBTI-INTJ-8E44AD?style=flat)](https://www.16personalities.com/ko/결과/intj-a/m/9xhhavnkm?utm_source=results-assertive-architect&utm_medium=email&utm_campaign=ko&utm_content=view-results)
 [![University](https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white)]()
 
 ---
