@@ -4,10 +4,20 @@
 
 > "Robotics for people, creative robots — I study and develop everything from hardware to software in robotics."
 
+<span style="color:blue">**Main development and research areas:**</span>
+<span style="color:yellow">Extreme robots such as disaster rescue robots, CV-based AI robots</span>
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/monozu-deving)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:monozu.deving@gmail.com)
 [![MBTI](https://img.shields.io/badge/MBTI-INTJ-8E44AD?style=flat)](https://www.16personalities.com/ko/결과/intj-a/m/9xhhavnkm?utm_source=results-assertive-architect&utm_medium=email&utm_campaign=ko&utm_content=view-results)
 [![University](https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white)]()
+
+---
+
+## 🏆 Highlights  
+
+- **Human–Robot Interaction 연구** — ICROS 2025 학술대회 3저자
 
 ---
 
@@ -30,6 +40,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Cakewalk](https://img.shields.io/badge/Cakewalk-F5792A?style=flat&logo=bandlab&logoColor=white)
 ![Android Studio (Java)](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
 
 ### 🧪 Studying
 
