@@ -1,12 +1,7 @@
-## Hi there 👋  
 
-`from monozu import robotics`
+# `🎲 from monozu import robotics 🤖`
 
 > "Robotics for people, creative robots — I study and develop everything from hardware to software in robotics."
-
-<span style="color:blue">**Main development and research areas:**</span>
-<span style="color:yellow">Extreme robots such as disaster rescue robots, CV-based AI robots</span>
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/monozu-deving)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:monozu.deving@gmail.com)
@@ -14,12 +9,39 @@
 ![](https://komarev.com/ghpvc/?username=monozu-deving&color=green)
 [![University](https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white)]()
 
+---
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left">⚙️ Monozu-deving</th>
+        <th align="right">│⠀⠀🖥️⠀⠀│⠀⠀🛠️⠀⠀│⠀⠀🤖⠀⠀│</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="center">
+        <td colspan="2">
+          <br>
+          <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python />
+          <img width="12" />
+          <br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+## 🎯 Focus  
+
+**Main development and research areas:** Extreme robots such as disaster rescue robots, CV-based AI robots
 
 ---
 
 ## 🏆 Highlights  
 
-- **Human–Robot Interaction 연구** — ICROS 2025 학술대회 3저자
+- **범용 인터랙티브 조작을 위한 AI시스템 연구** — ICROS 2025 학술대회 3저자
 
 ---
 
