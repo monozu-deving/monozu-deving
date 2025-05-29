@@ -20,24 +20,17 @@
           <a href=""><img src="https://img.shields.io/badge/Sejong_University-A31F34?style=flat&amp;logo=academia&amp;logoColor=white" alt="University"></a>
           <hr>
           <h2 align="left">🎯 Focus</h2>
-          Extreme robots such as disaster rescue robots, CV-based AI robots
-          <br>
-          <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python />
-          <img width="12" />
+          <li align="left">Extreme robots such as disaster rescue robots</li>
+          <li align="left">CV-based AI robots</li>
+          <hr>
+          <h2 align="left">🏆 Highlights</h2>
+          <li align="left">범용 인터랙티브 조작을 위한 AI시스템 연구 — ICROS 2025 학술대회 3저자</li>
           <br>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
----
-
-## 🏆 Highlights  
-
-- **범용 인터랙티브 조작을 위한 AI시스템 연구** — ICROS 2025 학술대회 3저자
-
----
 
 ## 🛠️ Skills
 
