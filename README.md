@@ -10,7 +10,7 @@
       <tr align="center">
         <td colspan="2">
           <h1>
-            <code>🎲 from monozu import robotics 🤖</code>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=600&lines=%F0%9F%8E%B2+from+monozu+import+robotics+%F0%9F%A4%96" alt="Typing SVG" /></a>
           </h1>
           <blockquote>"Robotics for people, creative robots — I study and develop everything from hardware to software in robotics."</blockquote>
           <a href="https://github.com/monozu-deving"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
