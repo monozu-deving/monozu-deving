@@ -26,7 +26,12 @@
           <h2 align="left">🏆 Highlights</h2>
           <li align="left">범용 인터랙티브 조작을 위한 AI시스템 연구 — ICROS 2025 학술대회 3저자</li>
           <hr>
-          <h2 align="left">🏆 Highlights</h2>
+          <h2 align="left">🛠️ Skills</h2>
+          <h3>✅ Proficient</h3>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=arduino,blender,notion,py" />
+          </a>
+          <hr>
           <br>
         </td>
       </tr>
