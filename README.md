@@ -1,7 +1,3 @@
-
-
----
-
 <div align="center">
   <table>
     <thead>
@@ -22,6 +18,9 @@
           <a href="https://www.16personalities.com/ko/결과/intj-a/m/9xhhavnkm?utm_source=results-assertive-architect&amp;utm_medium=email&amp;utm_campaign=ko&amp;utm_content=view-results"><img src="https://img.shields.io/badge/MBTI-INTJ-8E44AD?style=flat" alt="MBTI"></a>
           <img src="https://komarev.com/ghpvc/?username=monozu-deving&amp;color=green" alt="">
           <a href=""><img src="https://img.shields.io/badge/Sejong_University-A31F34?style=flat&amp;logo=academia&amp;logoColor=white" alt="University"></a>
+          <hr>
+          <h2 align="left">🎯 Focus</h2>
+          Extreme robots such as disaster rescue robots, CV-based AI robots
           <br>
           <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python />
           <img width="12" />
@@ -31,11 +30,6 @@
     </tbody>
   </table>
 </div>
-
-
-## 🎯 Focus  
-
-**Main development and research areas:** Extreme robots such as disaster rescue robots, CV-based AI robots
 
 ---
 
