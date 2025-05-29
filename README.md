@@ -30,7 +30,9 @@
               <img src="https://img.shields.io/badge/MBTI-INTJ-8E44AD?style=flat" alt="MBTI">
             </a>
             <img src="https://komarev.com/ghpvc/?username=monozu-deving&color=green" alt="Profile Views">
-            <img src="https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white" alt="University">
+            <a href="https://en.sejong.ac.kr/eng/index.do">
+              <img src="https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white" alt="University">
+            </a>
           </div>
           <hr>
           <!-- Focus -->
