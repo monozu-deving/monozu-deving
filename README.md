@@ -61,7 +61,7 @@
           </a>
           <h3 align="left">🔷 Experienced</h3>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=androidstudio,arch,java,nodejs,raspberrypi,ubuntu" alt="Skills">
+            <img src="https://skillicons.dev/icons?i=androidstudio,arch,java,javascript,raspberrypi,ubuntu" alt="Skills">
           </a>
           <br>
           <a href="https://img.shields.io">
