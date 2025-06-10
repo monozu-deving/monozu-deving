@@ -40,7 +40,6 @@
           <ul align="left">
             <li>Extreme robots such as disaster rescue robots</li>
             <li>CV-based route navigation AI robots</li>
-            <li>NLP and LLM</li>
           </ul>
           <hr>
           <!-- Highlights -->
