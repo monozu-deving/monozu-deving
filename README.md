@@ -49,7 +49,7 @@
           </ul>
           <hr>
           <!-- Skills -->
-          <h2 align="left">🛠️ Skill</h2>
+          <h2 align="left">🛠️ Skills</h2>
           <h3 align="left">✅ Proficient</h3>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=arduino,blender,notion,py" alt="Skills">
