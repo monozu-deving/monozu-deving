@@ -66,7 +66,7 @@
           <a href="https://img.shields.io">
             <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+            <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
             <img src="https://img.shields.io/badge/Cakewalk-F5792A?style=for-the-badge&logo=bandlab&logoColor=white" alt="Cakewalk"/>
           </a>
           <br>
@@ -77,6 +77,12 @@
           <br>
           <a href="https://img.shields.io">
             <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+          </a>
+          <a href="https://img.shields.io">
+            <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black" alt="Pytorch"/>
+          </a>
+          <a href="https://img.shields.io">
+            <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
           </a>
           <br><br>
         </td>
