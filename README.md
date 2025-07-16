@@ -79,7 +79,7 @@
             <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
           </a>
           <a href="https://img.shields.io">
-            <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black" alt="Pytorch"/>
+            <img src="https://img.shields.io/badge/pytorch-DDDDDD?style=for-the-badge&logo=pytorch&logoColor=orange" alt="Pytorch"/>
           </a>
           <a href="https://img.shields.io">
             <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
