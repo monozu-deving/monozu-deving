@@ -33,13 +33,18 @@
             <a href="https://en.sejong.ac.kr/eng/index.do">
               <img src="https://img.shields.io/badge/Sejong_University-A31F34?style=flat&logo=academia&logoColor=white" alt="University">
             </a>
+            <a href="https://monozu-deving.github.io/">
+              <img src="https://img.shields.io/badge/Web_Blog-558BCF?style=flat&logo=blogger&logoColor=white" alt="University">
+            </a>
           </div>
           <hr>
           <!-- Focus -->
           <h2 align="left">🎯 Focus</h2>
           <ul align="left">
-            <li>Extreme robots such as disaster rescue robots</li>
-            <li>CV-based route navigation AI robots</li>
+            <li>Robotics & Computer Vision AI</li>
+            <li>Robot Learning & Teleoperation</li>
+            <li>Physical AI</li>
+            <li>Disaster Rescue Robot</li>
           </ul>
           <hr>
           <!-- Highlights -->
